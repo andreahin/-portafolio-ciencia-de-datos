@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mí
 
-Soy Ingeniera Civil titulada con distinción, actualmente en transición activa hacia la Ciencia de Datos. Complemento mi formación de ingeniería con una sólida base analítica y técnica en Python, estadística y modelamiento de datos, adquirida a través del programa de Talento Digital.
+Soy Ingeniera Civil, actualmente en transición activa hacia la Ciencia de Datos. Complemento mi formación de ingeniería con una sólida base analítica y técnica en Python, estadística y modelamiento de datos, adquirida a través del programa de Talento Digital.
 
 Me encuentro disponible e interesada en incorporarme a nuevos desafíos profesionales en el área de datos.
 
@@ -71,7 +71,6 @@ Proyecto que aborda la simplificación de variables académicas para detectar pa
 - Comparación crítica y fundamentada entre ambas técnicas, con justificación final para el uso de PCA en un contexto de modelado predictivo.
 - **Mejora aplicada respecto al material base**: el script de apoyo usaba un `perplexity` fijo (30) para t-SNE; en este desarrollo se ajustó a valores válidos para el tamaño de la muestra (`perplexity = 3` y `5`), evitando el error que arrojaría `scikit-learn` con el valor por defecto, y se amplió la interpretación de los componentes principales.
 
-*(Próximos proyectos del curso se irán agregando aquí a medida que se completen: EDA y estadística descriptiva, visualización de datos, limpieza y preparación de datos, correlación y modelamiento lineal, probabilidad y muestreo, inferencia estadística, aprendizaje supervisado.)*
 
 ---
 
