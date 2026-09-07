@@ -1,6 +1,5 @@
-<!-- Reemplaza esta línea por tu foto real cuando la tengas:
 ![Foto de perfil](assets/foto-perfil.jpg)
-Mientras tanto, se usará el avatar de GitHub por defecto (cumple igual el criterio). -->
+
 
 # Andrea Escarlet Hinojosa Osorio
 ### Portafolio de Ciencia de Datos
